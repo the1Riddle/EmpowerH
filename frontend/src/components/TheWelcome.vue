@@ -431,6 +431,7 @@
 /* Mission Section */
 .mission-section {
   background: linear-gradient(180deg, transparent, rgba(255, 107, 0, 0.03));
+  padding: 80px 0;
 }
 
 .section-badge {
@@ -483,6 +484,7 @@
 /* Features Section */
 .features-section {
   background: var(--body-color);
+  padding: 80px 0;
 }
 
 .feature-card {
@@ -546,6 +548,7 @@
 /* Testimonials Section */
 .testimonial-section {
   background: linear-gradient(180deg, rgba(255, 107, 0, 0.03), transparent);
+  padding: 80px 0;
 }
 
 .testimonial-card {

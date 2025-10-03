@@ -528,6 +528,35 @@
       box-shadow: var(--shadow-md);
     }
 
+    /*-------- BOOTSTRAP BUTTON OVERRIDES --------*/
+    .btn-primary {
+      background-color: var(--first-color) !important;
+      border-color: var(--first-color) !important;
+      color: #FFF !important;
+    }
+
+    .btn-primary:hover,
+    .btn-primary:focus,
+    .btn-primary:active {
+      background-color: var(--first-color-alt) !important;
+      border-color: var(--first-color-alt) !important;
+      color: #FFF !important;
+    }
+
+    .btn-outline-primary {
+      color: var(--first-color) !important;
+      border-color: var(--first-color) !important;
+      background-color: transparent !important;
+    }
+
+    .btn-outline-primary:hover,
+    .btn-outline-primary:focus,
+    .btn-outline-primary:active {
+      background-color: var(--first-color) !important;
+      border-color: var(--first-color) !important;
+      color: #FFF !important;
+    }
+
     /*-------- ABOUT --------*/
     .about__data{
       text-align: center;
@@ -659,7 +688,7 @@
 
     /*-------- FOOTER --------*/
     .footer-area {
-      padding: 70px 0;
+      padding: 4rem 0;
     }
     .footer-box span {
       background-color: var(--first-color);
