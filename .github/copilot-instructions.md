@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-EmpowerH is a comprehensive web platform dedicated to addressing gender-based violence against women and promoting women's wellness. The platform provides:
+EmpowerH is a comprehensive web platform dedicated to addressing sexual and gender-based violence (SGBV), domestic abuse, and mental health challenges. The platform provides:
 
-- Anonymous reporting system for violence victims
+- Anonymous reporting system for victims of violence
 - Mental health support services and resources
-- Women's wellness hub with health tips and reminders
+- Wellness hub with health tips and reminders
 - Community discussion and support forums
-- Educational resources on rights and self-protection
+- Educational resources on rights, legal awareness, and self-protection
 
 ## Project Structure
 
@@ -119,9 +119,10 @@ npm run preview
    - Ensure keyboard navigation works properly
 
 3. **Inclusive Language**
-   - Use respectful and inclusive language
+   - Use gender-neutral and inclusive language (e.g., "individuals", "people", "survivors" rather than gender-specific terms)
    - Be sensitive to the trauma victims may have experienced
    - Follow the CODE_OF_CONDUCT.md guidelines
+   - Reflect the platform's commitment to serving all individuals regardless of gender identity
 
 4. **Mobile-First Design**
    - The platform should work well on mobile devices
