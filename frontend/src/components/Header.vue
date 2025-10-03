@@ -25,7 +25,7 @@ const { t } = useI18n()
                 <h4>{{ t('nav.pages') }}</h4>
                 <a href="/About">{{ t('nav.about') }}</a>
                 <a href="/Contact">{{ t('nav.contact') }}</a>
-                <a href="/PrivacyPolicy">{{ t('nav.privacyPolicy') }}</a>
+                <a href="/privacy-policy">{{ t('nav.privacyPolicy') }}</a>
                 <a href="/terms-and-conditions">{{ t('nav.termsConditions') }}</a>
               </div>
             </div>
