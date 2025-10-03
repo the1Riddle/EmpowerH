@@ -4,8 +4,7 @@ Note: this project is being renamed as EmpowerH
 
 the following are what we tend to achieve
 
-Project Title:
-SafeSpace (AI suggested this, but it can be changed later)
+Project Title: EmpowerH
 
 1. Problem Statement
 Across societies, individuals face persistent challenges such as sexual and gender-based violence (SGBV), domestic abuse, and mental health struggles like depression, trauma, and anxiety. Victims often remain silent due to shame, fear of judgment, cultural stigma, and lack of accessible support systems.
