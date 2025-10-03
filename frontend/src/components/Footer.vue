@@ -54,10 +54,11 @@ const { t } = useI18n()
               <br>
               <form action="/home">
                 <div class="input-group mb-3">
-                  <input type="email" class="form-control" placeholder="Your Email" required>
-                  <button class="btn btn-outline-secondary" type="submit">
+                  <input type="email" class="form-control" placeholder="Email" aria-label="Recipient's username" aria-describedby="basic-addon2" required>
+                  <span class="input-group-text" id="basic-addon2">Subscribe</span>
+                  <!--button class="btn btn-outline-secondary" type="submit">
                     <i class="bi bi-send"></i>
-                  </button>
+                  </button-->
                 </div>
               </form>
             </div>
@@ -70,9 +71,9 @@ const { t } = useI18n()
     <!-- copyright -->
     <div class="copyright">
       <div class="container">
-        <div class="row">
+        <div class="row footer__copy">
           <div class="col-lg-6 col-md-12">
-            <p>{{ t('footer.copyright') }}
+            <p>Copyrights &copy; 2024 - <a href="/">EmpowerH</a>, {{ t('footer.copyright') }}
             </p>
           </div>
           <div class="col-lg-6 text-right col-md-12">

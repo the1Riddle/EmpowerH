@@ -58,6 +58,14 @@ const { t } = useI18n()
               </div>
             </div>
           </li>
+          <li class="nav__item"><a href="#" class="nav__link position-relative"><i class="bi bi-bell-fill"></i>
+            <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-success">
+              <!-- number of notifications goes here -->
+              <span class="visually-hidden">unread messages</span>
+            </span>
+            Notifications
+          </a>
+        </li>
         <!--li class="nav__item"><a href="/Login" class="nav__link">{{ t('nav.login') }}</a></li-->
         <li class="nav__item nav_right dropdown dropdown-toggle"><a href="/Account" class="nav__link">Account</a>
           <div class="dropdown-content">
@@ -70,7 +78,7 @@ const { t } = useI18n()
             </div>
           </div>
         </li>
-        <li class="nav__item"><LanguageSwitcher /></li>
+        <!--li class="nav__item"><LanguageSwitcher /></li-->
         <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
       </ul>
     </div>
