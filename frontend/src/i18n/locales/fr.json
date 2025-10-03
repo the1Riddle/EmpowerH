@@ -161,5 +161,25 @@
     "back": "Retour",
     "next": "Suivant",
     "previous": "Précédent"
+  },
+  "community": {
+    "title": "Rejoignez notre communauté",
+    "subtitle": "Connectez-vous avec d'autres qui comprennent, partagent et soutiennent votre parcours",
+    "welcomeTitle": "Bienvenue dans la communauté EmpowerH",
+    "welcomeDesc": "Notre communauté est un espace sûr et solidaire où les individus peuvent se connecter, partager des expériences et trouver de la force ensemble. Que vous cherchiez du soutien, que vous offriez des encouragements ou que vous cherchiez simplement à vous connecter avec d'autres qui comprennent, vous êtes les bienvenus ici.",
+    "connectTitle": "Connecter et partager",
+    "connectDesc": "Rejoignez des conversations avec des personnes qui comprennent votre parcours et partagent des expériences similaires dans un environnement sûr et sans jugement.",
+    "supportTitle": "Trouver du soutien",
+    "supportDesc": "Accédez au soutien par les pairs, aux ressources en santé mentale et connectez-vous avec d'autres qui peuvent offrir des encouragements et de la compréhension.",
+    "shareTitle": "Partagez votre histoire",
+    "shareDesc": "Vos expériences comptent. Partagez votre histoire, inspirez les autres et contribuez à briser le silence autour de questions importantes.",
+    "growTitle": "Apprendre et grandir",
+    "growDesc": "Participez à des discussions, accédez à des ressources éducatives et grandissez ensemble avec notre communauté solidaire.",
+    "discordTitle": "Rejoignez-nous sur Discord",
+    "discordDesc": "Notre serveur Discord est le cœur de notre communauté. Connectez-vous avec les membres en temps réel, participez à des discussions, accédez aux canaux de soutien et faites partie d'une communauté accueillante.",
+    "joinDiscord": "Rejoindre notre serveur Discord",
+    "discordNote": "En rejoignant, vous aurez accès à nos canaux communautaires, groupes de soutien, événements et ressources.",
+    "whyJoinTitle": "Pourquoi rejoindre notre communauté Discord?",
+    "whyJoinDesc": "Notre communauté Discord offre un espace sûr pour des conversations en temps réel, du soutien par les pairs et des connexions. Avec des canaux dédiés pour différents sujets, des événements communautaires réguliers et une atmosphère solidaire, vous trouverez un endroit où vous appartenez vraiment. Rejoignez des milliers de membres qui ont trouvé force, amitié et soutien dans notre communauté."
   }
 }

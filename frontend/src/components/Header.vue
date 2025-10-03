@@ -51,7 +51,7 @@ const { t } = useI18n()
               </div>
               <div class="dropdown-column">
                 <h4>{{ t('nav.community') }}</h4>
-                <a href="#">{{ t('nav.joinCommunity') }}</a>
+                <a href="/community">{{ t('nav.joinCommunity') }}</a>
                 <a href="#">{{ t('nav.contribute') }}</a>
                 <a href="/Forum">{{ t('nav.forum') }}</a>
                 <a href="#">{{ t('nav.chat') }}</a>

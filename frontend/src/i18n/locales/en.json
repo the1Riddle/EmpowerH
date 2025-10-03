@@ -161,5 +161,25 @@
     "back": "Back",
     "next": "Next",
     "previous": "Previous"
+  },
+  "community": {
+    "title": "Join Our Community",
+    "subtitle": "Connect with others who understand, share, and support your journey",
+    "welcomeTitle": "Welcome to the EmpowerH Community",
+    "welcomeDesc": "Our community is a safe, supportive space where individuals can connect, share experiences, and find strength together. Whether you're seeking support, offering encouragement, or simply looking to connect with others who understand, you're welcome here.",
+    "connectTitle": "Connect & Share",
+    "connectDesc": "Join conversations with people who understand your journey and share similar experiences in a safe, judgment-free environment.",
+    "supportTitle": "Find Support",
+    "supportDesc": "Access peer support, mental health resources, and connect with others who can offer encouragement and understanding.",
+    "shareTitle": "Share Your Story",
+    "shareDesc": "Your experiences matter. Share your story, inspire others, and contribute to breaking the silence around important issues.",
+    "growTitle": "Learn & Grow",
+    "growDesc": "Participate in discussions, access educational resources, and grow together with our supportive community.",
+    "discordTitle": "Join Us on Discord",
+    "discordDesc": "Our Discord server is the heart of our community. Connect with members in real-time, participate in discussions, access support channels, and be part of a welcoming community.",
+    "joinDiscord": "Join Our Discord Server",
+    "discordNote": "By joining, you'll have access to our community channels, support groups, events, and resources.",
+    "whyJoinTitle": "Why Join Our Discord Community?",
+    "whyJoinDesc": "Our Discord community offers a safe space for real-time conversations, peer support, and connection. With dedicated channels for different topics, regular community events, and a supportive atmosphere, you'll find a place where you truly belong. Join thousands of members who have found strength, friendship, and support in our community."
   }
 }

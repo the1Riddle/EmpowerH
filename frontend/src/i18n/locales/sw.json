@@ -161,5 +161,25 @@
     "back": "Nyuma",
     "next": "Ifuatayo",
     "previous": "Iliyotangulia"
+  },
+  "community": {
+    "title": "Jiunge na Jamii Yetu",
+    "subtitle": "Unganisha na wengine wanaoelewa, kushiriki, na kusaidia safari yako",
+    "welcomeTitle": "Karibu kwenye Jamii ya EmpowerH",
+    "welcomeDesc": "Jamii yetu ni nafasi salama, ya kusaidia ambapo watu binafsi wanaweza kuunganisha, kushiriki uzoefu, na kupata nguvu pamoja. Iwe unatafuta msaada, kutoa motisha, au unataka tu kuungana na wengine wanaoelewa, unakaribishwa hapa.",
+    "connectTitle": "Unganisha na Shiriki",
+    "connectDesc": "Jiunge na mazungumzo na watu wanaoelewa safari yako na kushiriki uzoefu wa aina moja katika mazingira salama, bila hukumu.",
+    "supportTitle": "Pata Msaada",
+    "supportDesc": "Pata msaada wa rika, rasilimali za afya ya akili, na unganisha na wengine wanaoweza kutoa motisha na uelewa.",
+    "shareTitle": "Shiriki Hadithi Yako",
+    "shareDesc": "Uzoefu wako una umuhimu. Shiriki hadithi yako, tahayarisha wengine, na changia kuvunja kimya kinachozunguka masuala muhimu.",
+    "growTitle": "Jifunze na Kukua",
+    "growDesc": "Shiriki katika majadiliano, pata rasilimali za elimu, na kukua pamoja na jamii yetu ya kusaidia.",
+    "discordTitle": "Jiunge Nasi kwenye Discord",
+    "discordDesc": "Seva yetu ya Discord ni moyo wa jamii yetu. Unganisha na wanachama kwa wakati halisi, shiriki katika majadiliano, pata njia za msaada, na kuwa sehemu ya jamii inayokaribisha.",
+    "joinDiscord": "Jiunge na Seva yetu ya Discord",
+    "discordNote": "Kwa kujiunge, utapata ufikiaji wa njia zetu za jamii, vikundi vya msaada, matukio, na rasilimali.",
+    "whyJoinTitle": "Kwa Nini Jiunge na Jamii Yetu ya Discord?",
+    "whyJoinDesc": "Jamii yetu ya Discord inatoa nafasi salama kwa mazungumzo ya wakati halisi, msaada wa rika, na miunganisho. Ikiwa na njia zilizotengwa kwa mada tofauti, matukio ya jamii ya kawaida, na hali ya kusaidia, utapata mahali ambapo unamiliki kweli. Jiunge na maelfu ya wanachama ambao wamepata nguvu, urafiki, na msaada katika jamii yetu."
   }
 }
