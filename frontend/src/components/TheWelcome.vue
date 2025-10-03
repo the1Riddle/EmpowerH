@@ -1,4 +1,7 @@
 <script setup>
+import { useI18n } from 'vue-i18n'
+
+const { t } = useI18n()
 </script>
 
 <template>
@@ -11,35 +14,34 @@
         <div class="col-lg-6 text-center text-lg-start order-lg-1 hero-content">
           <div class="hero-badge mb-3">
             <span class="badge-dot"></span>
-            Empowering Everyone Worldwide
+            {{ t('home.badge') }}
           </div>
           <h1 class="hero-title mb-4">
-            Welcome to <span class="gradient-text">EmpowerH</span>
+            {{ t('home.title') }} <span class="gradient-text">{{ t('nav.logo') }}</span>
           </h1>
           <p class="hero-subtitle mb-4">
-            A safe space where people connect, share stories, and support each other. 
-            Join our community to empower and be empowered through shared experiences and collective strength.
+            {{ t('home.subtitle') }}
           </p>
           <div class="hero-actions">
             <a class="btn btn-primary btn-lg rounded-pill px-4 me-3 btn-hover-lift" href="/signup" role="button">
-              <i class="bi bi-arrow-right-circle me-2"></i>Get Started
+              <i class="bi bi-arrow-right-circle me-2"></i>{{ t('home.getStarted') }}
             </a>
             <a class="btn btn-outline-primary btn-lg rounded-pill px-4 btn-hover-lift" href="/about" role="button">
-              Learn More
+              {{ t('home.learnMore') }}
             </a>
           </div>
           <div class="hero-stats mt-5">
             <div class="stat-item">
               <div class="stat-number">10K+</div>
-              <div class="stat-label">Active Members</div>
+              <div class="stat-label">{{ t('home.stats.users') }}</div>
             </div>
             <div class="stat-item">
               <div class="stat-number">500+</div>
-              <div class="stat-label">Stories Shared</div>
+              <div class="stat-label">{{ t('home.stats.stories') }}</div>
             </div>
             <div class="stat-item">
               <div class="stat-number">24/7</div>
-              <div class="stat-label">Support Available</div>
+              <div class="stat-label">{{ t('home.stats.support') }}</div>
             </div>
           </div>
         </div>
