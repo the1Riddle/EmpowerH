@@ -44,7 +44,7 @@
             <hr>
             <div class="post-list menu__container bd-grid">
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Upcoming Events 1 </h3>
                         <p>
@@ -55,7 +55,7 @@
                 </div>
 
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Upcoming Events 2</h3>
                         <p>
@@ -66,7 +66,7 @@
                 </div>
 
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Upcoming Events 3 </h3>
                         <p>
@@ -92,7 +92,7 @@
                     <p class="about__description">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
                 </div>
 
-                <img src="./Untitled1.jpg" alt="" class="about__img">
+                <img src="../assets/img/home.jpg" alt="" class="about__img">
             </div>
         </section>
 
@@ -105,7 +105,7 @@
                 </div>
             </div>
 
-            <img src="./Untitled1.jpg" alt="" class="home__img">
+            <img src="../assets/img/home.jpg" alt="" class="home__img">
         </section>
 
         <!---- Whatever lol End ---->
@@ -116,7 +116,7 @@
             <hr>
             <div class="post-list menu__container bd-grid">
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Past Event 1 </h3>
                         <p>
@@ -127,7 +127,7 @@
                 </div>
 
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Past Event 2 </h3>
                         <p>
@@ -138,7 +138,7 @@
                 </div>
 
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Past Event 3 </h3>
                         <p>

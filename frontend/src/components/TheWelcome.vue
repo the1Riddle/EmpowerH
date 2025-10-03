@@ -9,7 +9,7 @@
 
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-md-5 col-lg-7 order-md-1 pt-8"><img class="img-fluid" src="../assets/imillustrations/hero-header.png" alt="" /></div>
+        <div class="col-md-5 col-lg-7 order-md-1 pt-8"><img class="img-fluid" src="../assets/img/illustrations/hero-header.png" alt="" /></div>
         <div class="col-md-7 col-lg-5 text-center text-md-start pt-5 pt-md-9">
           <h3 class="mb-4 display-2 fw-bold">Welcome to <br class="d-block d-lg-none d-xl-block" />EmpowerHer!</h3>
           <p class="mt-3 mb-4">Her is where you get the oppotunity <br />to interact freely with your fellow women<br />share stories and encourage one another <br />as a way of empowerment.</p><a class="btn btn-lg btn-info rounded-pill" href="/posts" role="button">Share Now</a>

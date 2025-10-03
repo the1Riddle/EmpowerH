@@ -45,7 +45,7 @@
                             </div>
                         </div>
                     
-                        <img src="./Untitled1.jpg" alt="" class="home__img">
+                        <img src="../assets/img/home.jpg" alt="" class="home__img">
                     </div>
                 </div>
             </div>

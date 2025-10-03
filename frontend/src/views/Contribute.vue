@@ -27,7 +27,7 @@
         <section class="menu section bd-container" id="Chat">
             <div class="post-list menu__container bd-grid">
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Community Chart </h3>
                         <p>
@@ -38,7 +38,7 @@
                 </div>
 
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Forum </h3>
                         <p>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Report an Issue </h3>
                         <p>
@@ -72,7 +72,7 @@
                     <a href="#" class="button">Explore history</a>
                 </div>
 
-                <img src="./Untitled1.jpg" alt="" class="about__img">
+                <img src="../assets/img/home.jpg" alt="" class="about__img">
             </div>
         </section>
         <!---- Whatever lol End ---->
@@ -81,7 +81,7 @@
         <section class="menu section bd-container" id="Wellness">
             <div class="post-list menu__container bd-grid">
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Community Content </h3>
                         <p>
@@ -92,7 +92,7 @@
                 </div>
 
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Training </h3>
                         <p>
@@ -103,7 +103,7 @@
                 </div>
 
                 <div v-for="post in paginatedPosts" :key="post.id" class="post-card">
-                    <img src="./Untitled1.jpg" alt="Post image" class="post-image"/>
+                    <img src="../assets/img/home.jpg" alt="Post image" class="post-image"/>
                     <div class="post-content">
                         <h3>Platform Development </h3>
                         <p>

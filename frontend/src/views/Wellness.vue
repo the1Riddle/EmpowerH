@@ -43,7 +43,7 @@
                     <a href="#" class="button">Explore history</a>
                 </div>
 
-                <img src="../assets/img/about.jpg" alt="" class="about__img">
+                <img src="../assets/img/illustrations/about.png" alt="" class="about__img">
             </div>
         </section>
         <!---- Popular Post End ---->
