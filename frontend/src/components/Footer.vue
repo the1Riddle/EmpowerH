@@ -19,7 +19,7 @@ defineProps({
           <div class="col-lg-3 col-md-6">
             <div class="footer-box about-widget">
               <h2 class="widget-title">Why us</h2>
-              <p>Join our community today and become part of a supportive network of women who empower and uplift each other. Together, let's create a brighter future for all.</p>
+              <p>Join our community today and become part of a supportive network of people who empower and uplift each other. Together, let's create a brighter future for all.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">

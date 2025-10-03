@@ -11,13 +11,13 @@
         <div class="col-lg-6 text-center text-lg-start order-lg-1 hero-content">
           <div class="hero-badge mb-3">
             <span class="badge-dot"></span>
-            Empowering Women Worldwide
+            Empowering Everyone Worldwide
           </div>
           <h1 class="hero-title mb-4">
             Welcome to <span class="gradient-text">EmpowerH</span>
           </h1>
           <p class="hero-subtitle mb-4">
-            A safe space where women connect, share stories, and support each other. 
+            A safe space where people connect, share stories, and support each other. 
             Join our community to empower and be empowered through shared experiences and collective strength.
           </p>
           <div class="hero-actions">
@@ -67,9 +67,9 @@
             <span class="section-badge mb-3">Our Mission</span>
             <h2 class="section-title mb-4">Why <span class="gradient-text">EmpowerH</span>?</h2>
             <p class="section-description mb-4">
-              EmpowerH is a comprehensive platform dedicated to empowering women and providing a safe, inclusive space 
+              EmpowerH is a comprehensive platform dedicated to empowering everyone and providing a safe, inclusive space 
               for connection, support, and growth. Our mission is to foster solidarity and break the silence surrounding 
-              gender-based violence.
+              gender-based violence and discrimination.
             </p>
             <ul class="mission-features">
               <li class="feature-item">
@@ -175,7 +175,7 @@
       <div class="text-center mb-5">
         <span class="section-badge mb-3">Community Voices</span>
         <h2 class="section-title mb-3">What Our <span class="gradient-text">Members Say</span></h2>
-        <p class="section-description">Real stories from real women in our community</p>
+        <p class="section-description">Real stories from real people in our community</p>
       </div>
       
       <div id="carouselTestimonials" class="carousel slide" data-bs-ride="carousel">
@@ -193,7 +193,7 @@
                   </div>
                   <p class="testimonial-text mb-4">
                     "EmpowerH has been a transformative experience for me. The community support and resources 
-                    have helped me find my voice and connect with amazing women who understand my journey."
+                    have helped me find my voice and connect with amazing people who understand my journey."
                   </p>
                   <div class="testimonial-author">
                     <img src="../assets/img/user-image.svg" alt="Sarah M." class="author-avatar">
