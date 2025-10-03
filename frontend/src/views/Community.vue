@@ -76,7 +76,7 @@ const { t } = useI18n()
                             <h2 style="font-size: 2.5rem; margin-bottom: 1rem; color: var(--title-color);">{{ t('community.discordTitle') }}</h2>
                             <p style="font-size: 1.2rem; margin-bottom: 2rem; color: var(--text-color);">{{ t('community.discordDesc') }}</p>
                             
-                            <a href="https://discord.gg/MFrScVBJ" 
+                            <a href="https://discord.gg/RxG3NyQftq" 
                                target="_blank" 
                                rel="noopener noreferrer"
                                class="button"
