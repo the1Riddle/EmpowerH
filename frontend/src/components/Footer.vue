@@ -19,7 +19,7 @@ defineProps({
           <div class="col-lg-3 col-md-6">
             <div class="footer-box about-widget">
               <h2 class="widget-title">Why us</h2>
-              <p>Join our community today and become part of a supportive network of women who empower and uplift each other. Together, let's create a brighter future for all.</p>
+              <p>Join our community today and become part of a supportive network of people who empower and uplift each other. Together, let's create a brighter future for all.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -67,7 +67,7 @@ defineProps({
       <div class="container">
         <div class="row footer__copy">
           <div class="col-lg-6 col-md-12">
-            <p>Copyrights &copy; 2024 - <a href="https://empowerherr.tech/">EmpowerHer</a>,  All Rights Reserved.</p>
+            <p>Copyrights &copy; 2024 - <a href="/">EmpowerH</a>,  All Rights Reserved.</p>
           </div>
           <div class="col-lg-6 text-right col-md-12">
             <div class="social-icons">
