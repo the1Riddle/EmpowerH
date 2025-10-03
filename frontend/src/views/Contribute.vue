@@ -15,10 +15,10 @@
         <section class="section1 bd-container">
             <div class="container">
                 <div class="left_block">
-                    <h2 class="section-title" style="text-align: left;">Contribute To EmpowerHer</h2>
+                    <h2 class="section-title" style="text-align: left;">Contribute To EmpowerH</h2>
                 </div>
                 <div class="right_block">
-                    <p>EmpowerHer is a community-driven platform that relies on the contributions of its members to grow and thrive. We welcome contributions from all members of the community, regardless of their background or experience level. From building features to writing blogs, you can contribute to our community and help make EmpowerHer a better place for everyone.</p>
+                    <p>EmpowerH is a community-driven platform that relies on the contributions of its members to grow and thrive. We welcome contributions from all members of the community, regardless of their background or experience level. From building features to writing blogs, you can contribute to our community and help make EmpowerH a better place for everyone.</p>
                 </div>
             </div>
         </section>

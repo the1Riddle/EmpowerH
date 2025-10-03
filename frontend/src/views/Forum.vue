@@ -5,7 +5,7 @@
         <section class="section bd-container">
             <div style="text-align: center;">
                 <div class="home__data">
-                    <h1 class="home__title">EmpowerHer Forum</h1>
+                    <h1 class="home__title">EmpowerH Forum</h1>
                 </div>
             </div>
             <br>

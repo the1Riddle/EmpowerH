@@ -10,7 +10,7 @@ defineProps({
 <template>
   <header class="l-header" id="header">
     <nav class="nav bd-container">
-      <a href="/" class="nav__logo">EmpowerHer</a>
+      <a href="/" class="nav__logo">EmpowerH</a>
 
       <div class="nav__menu nav-center" id="nav-menu">
         <ul class="nav__list">

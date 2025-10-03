@@ -11,7 +11,7 @@
 
             		<br><h3>Introduction</h3>
 
-            		<p>EmpowerHer is committed to protecting the privacy and security of our users. This privacy policy explains how we collect, use, and disclose personal information from our website visitors and users.</p>
+            		<p>EmpowerH is committed to protecting the privacy and security of our users. This privacy policy explains how we collect, use, and disclose personal information from our website visitors and users.</p>
 
             		<br><h3>Information We Collect</h3>
 

@@ -28,11 +28,11 @@
         <section class="section1 bd-container">
             <div class="container">
                 <div class="left_block">
-                    <h2 class="section-title" style="text-align: left;">EmpowerHer Events</h2>
+                    <h2 class="section-title" style="text-align: left;">EmpowerH Events</h2>
                 </div>
                 <div class="right_block">
                     <p>
-                    	Welcome to connect with the EmpowerHer team at conferences, meetups, and other events online and in-person year-round across the globe. We are excited to meet you and share our mission to empower and uplift all women. Join us at our next event and become part of our community.
+                    	Welcome to connect with the EmpowerH team at conferences, meetups, and other events online and in-person year-round across the globe. We are excited to meet you and share our mission to empower and uplift all women. Join us at our next event and become part of our community.
                     </p>
                 </div>
             </div>
