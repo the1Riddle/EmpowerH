@@ -21,24 +21,24 @@
                                 <div class="col-lg-6 col-md-6 mb-4 mb-md-5">
                                     <div class="list-box d-flex">
                                         <div class="content">
-                                            <h3>Privacy Value</h3>
-                                            <p>We as empowerher are coconcerned about our users privacy</p>
+                                            <h3>Privacy & Safety</h3>
+                                            <p>We prioritize the privacy and safety of all our users, providing a secure environment where you can share and seek support anonymously.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 mb-5 mb-md-5">
                                     <div class="list-box d-flex">
                                         <div class="content">
-                                            <h3>Free Interactions</h3>
-                                            <p>In empowerher website we give you the opotunity to communicate relevanly among each other freely</p>
+                                            <h3>Safe Community</h3>
+                                            <p>EmpowerH provides a supportive platform where individuals can connect, communicate, and support each other in a respectful and safe environment.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 mb-5 mb-md-5">
                                     <div class="list-box d-flex">
                                         <div class="content">
-                                            <h3>Empower You</h3>
-                                            <p>Just as the site name indicats we empower all women from accros the glob</p>
+                                            <h3>Empower Everyone</h3>
+                                            <p>Our mission is to empower all individuals worldwide by providing resources, support, and a voice to those affected by violence and mental health challenges.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -55,18 +55,32 @@
                     <h3 style="text-align:center">More <span class="orange-text">About Us</span></h3>
                     <br>
                     <p>
-                    We understand that some stories are too heavy to carry alone. 
-                    That’s why we’ve created this platform—a sanctuary where you can unburden your heart, 
-                    share your experiences, and connect with others who’ve walked similar paths:<br>
+                    EmpowerH is a comprehensive platform dedicated to addressing sexual and gender-based violence (SGBV), 
+                    domestic abuse, and mental health challenges. We understand that some stories are too heavy to carry alone. 
+                    That's why we've created this sanctuary—a safe space where you can share your experiences, 
+                    seek support, and connect with others who've walked similar paths.<br><br>
 
-                    1. We recognize that many women face barriers—fear, shame, or societal pressure—that prevent them from speaking out. But your voice deserves to be heard. By sharing, you empower others and break the silence.
-                Join Us: Let’s create a space where stories heal, hearts mend, and resilience blooms.<br>
+                    <strong>Our Mission:</strong><br>
+                    We recognize that many individuals face barriers—fear, shame, or societal pressure—that prevent them from 
+                    speaking out. But every voice deserves to be heard. By providing a confidential and anonymous reporting system, 
+                    mental health support services, and educational resources, we empower survivors and break the silence surrounding 
+                    violence and mental health struggles.<br><br>
 
-                    2. Our platform is dedicated to providing a safe and supportive environment for women to share their stories,
-                          receive support, and connect with others who understand their struggles. We believe that 
-                          every woman deserves to be heard and empowered.<br>
-                    3. Through our platform, we aim to create a community that fosters empathy, understanding, and growth. We believe that by sharing our stories and supporting one another, we can break 
-                          down barriers and create a brighter future for all women.      
+                    <strong>What We Offer:</strong><br>
+                    • Anonymous reporting system for victims of violence<br>
+                    • Professional mental health support and counseling<br>
+                    • Educational resources on rights, legal awareness, and self-protection<br>
+                    • Community forums for peer support and shared experiences<br>
+                    • Wellness hub with health tips and resources<br><br>
+
+                    <strong>Our Commitment:</strong><br>
+                    We are dedicated to providing a safe, supportive, and inclusive environment for all individuals, 
+                    regardless of gender identity, sexual orientation, age, race, ethnicity, or background. 
+                    Through our platform, we aim to create a community that fosters empathy, understanding, and growth. 
+                    We believe that by sharing our stories and supporting one another, we can break down barriers, 
+                    reduce stigma, and create a brighter future for everyone.<br><br>
+
+                    Join us in creating a space where stories heal, hearts mend, and resilience blooms.
                     </p>
                 </div>
             </div>
